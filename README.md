@@ -5,7 +5,7 @@ tahap awal & instalasi
 sudo apt update -y && sudo apt upgrade -y
 ```
 ```
-sudo apt install nodejs -y && sudo apt install npm -y && sudo npm install express socket.io
+sudo apt install git && sudo apt install nodejs -y && sudo apt install npm -y && sudo npm install express socket.io
 ```
 ```
 git clone https://github.com/ibrammanggara/chat-js && cd chat-js
